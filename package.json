@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/piyush97/Etherium-Wallet/issues"
   },
-  "homepage": "https://github.com/piyush97/Etherium-Wallet#readme"
+  "homepage": "https://github.com/piyush97/Etherium-Wallet#readme",
+  "devDependencies": {
+    "eslint": "^5.6.1"
+  }
 }
